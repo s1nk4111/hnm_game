@@ -1,1 +1,2 @@
-# hnm_game
+# HNM_game
+A simple game created by Unity.
